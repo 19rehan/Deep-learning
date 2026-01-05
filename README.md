@@ -1,1 +1,1 @@
-**Deep Learning Techniques**
+**Deep Learning Projects & Techniques**
