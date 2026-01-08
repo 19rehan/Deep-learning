@@ -1,2 +1,9 @@
 **Deep Learning Projects & Techniques**
-Lean How **Deep Learning** Libraries Works.
+
+
+
+Learn How **Deep Learning** Libraries Works.
+
+
+
+Learn how **Deep Learning** Uses in Image Data.
