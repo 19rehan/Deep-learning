@@ -5,6 +5,6 @@
 Learn How **Deep Learning** Libraries Works.
 
 
-Learn
+Lea
 
 Learn how **Deep Learning** Uses on Image Data.
