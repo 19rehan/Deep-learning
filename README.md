@@ -5,7 +5,7 @@
 Learn How **Deep Learning** Libraries Works.
 
 
-Learn **ALL Famous Techniques of DL.**
+Learn
 
 
 Learn how **Deep Learning** Uses on Image Data.
